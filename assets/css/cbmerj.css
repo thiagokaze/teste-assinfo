@@ -1,0 +1,7 @@
+header{background: #f00; color:#fff; padding: 20px;margin-bottom:30px;}
+h1{padding :0; margin:0; font-size:20px;}
+.simple-table{border:1px solid #000; width:100%;}
+.simple-table th { color:#000; background: #ccc; padding:15px;border-bottom:1px solid #000;}
+.simple-table td{padding:5px 10px;}
+.simple-table tr:nth-child(odd){background:#ffe6e6;}
+.simple-table tr:nth-child(even){backround:#fff;}
